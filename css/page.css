@@ -8,6 +8,7 @@
   padding-inline-start: 2em;
   padding-inline-end: 2rem;
   padding-block-end: 2em;
+  overflow: auto;
 }
 
 .page-block {
